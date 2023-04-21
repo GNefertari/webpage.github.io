@@ -1,2 +1,0 @@
-# GNefer-webpage
-My site
